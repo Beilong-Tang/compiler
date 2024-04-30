@@ -1,0 +1,9 @@
+let
+type B = A 
+type A = int
+
+var a := 3
+var x:B := a + 5
+in
+x
+end

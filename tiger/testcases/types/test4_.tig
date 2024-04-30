@@ -1,0 +1,6 @@
+let
+var x := 1
+var y := 2
+in
+if x=y then x else 2
+end

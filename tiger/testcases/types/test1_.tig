@@ -1,0 +1,11 @@
+let
+type symbol = int
+type data = int
+type la = int
+var a := 1
+var b := 2
+var c:int := a + b + (2 + 3)
+type ha = int
+in
+c
+end

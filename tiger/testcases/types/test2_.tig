@@ -1,0 +1,7 @@
+let
+type symbol = {key:int, value:tree}
+type tree = int
+val a:tree = 3
+in
+a
+end
